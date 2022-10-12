@@ -1,0 +1,9 @@
+{
+	"token": "",
+	"database": "mongodb+srv://RythmInc:01242005@cluster0.t4qwx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"developer": "522029473357496322",
+	"clientid": "1023788085613428776",
+	"serverid": "804327291458551828",
+	"autoreactchannel": [""],
+	"cooldown": "You are on `<duration>` cooldown!"
+}
